@@ -3,6 +3,9 @@ div {
 }
 /*borders are only in place so 
 I can see what I am working with */
+#nav_bar {
+	list-style: none;
+}
 
 #header {
 	text-align: center;
