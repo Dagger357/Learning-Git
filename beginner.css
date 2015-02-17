@@ -1,12 +1,11 @@
 div {
 	border-radius: 5px;
 }
-/*borders are only in place so 
-I can see what I am working with */
 #nav_bar {
 	list-style: none;
 }
-
+/*borders are only in place so 
+I can see what I am working with */
 #header {
 	text-align: center;
 	border: 1px solid black;
